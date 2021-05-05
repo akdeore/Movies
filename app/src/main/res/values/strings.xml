@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Android Technical Test</string>
+    <string name="movie_poster">movie_poster</string>
+    <string name="image_big_poster">image_big_poster</string>
+    <string name="overview">Overview</string>
+    <string name="sign_in">Sign In</string>
+    <string name="e_mail_address">E-Mail Address</string>
+    <string name="password">Password</string>
+    <string name="click_to_login">Click to Login</string>
+</resources>
